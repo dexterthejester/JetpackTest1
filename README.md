@@ -13,3 +13,4 @@ This was added into a branch.
 I really do not get markdown newline. Why do I need double spaces to indicate a newline?  
 To be honest, I think this is rather unintuitive and clunky.
 How will you be able to see the newlines???
+It's so hard to understand...
