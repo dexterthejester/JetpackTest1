@@ -28,6 +28,7 @@ class MainActivity : ComponentActivity() {
                     Text("bruh moment")
                     Text("I think this overlaps, but as I said!!!")
                     Text("Test!!!!!!!!!")
+                    Text("Let's hope this works this time.")
                 }
             }
         }
