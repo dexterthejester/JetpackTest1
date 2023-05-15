@@ -29,6 +29,7 @@ class MainActivity : ComponentActivity() {
                     Text("I think this overlaps, but as I said!!!")
                     Text("Test!!!!!!!!!")
                     Text("Let's hope this works this time.")
+                    Text("I'm getting impatient...")
                 }
             }
         }
