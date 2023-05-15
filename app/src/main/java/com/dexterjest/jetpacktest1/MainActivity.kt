@@ -33,6 +33,7 @@ class MainActivity : ComponentActivity() {
                     Text("Hmph!")
                     Text("Testinging")
                     Text("So happy it works :)")
+                    Text("Only the greeting is appearing...")
                 }
             }
         }
