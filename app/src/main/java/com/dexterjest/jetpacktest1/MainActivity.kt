@@ -26,6 +26,8 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Greeting("Android")
                     Text("bruh moment")
+                    Text("I think this overlaps, but as I said!!!")
+                    Text("Test!!!!!!!!!")
                 }
             }
         }
