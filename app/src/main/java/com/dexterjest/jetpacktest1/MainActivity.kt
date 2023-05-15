@@ -32,6 +32,7 @@ class MainActivity : ComponentActivity() {
                     Text("I'm getting impatient...")
                     Text("Hmph!")
                     Text("Testinging")
+                    Text("So happy it works :)")
                 }
             }
         }
